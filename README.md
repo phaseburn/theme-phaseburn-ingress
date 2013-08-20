@@ -1,4 +1,4 @@
-theme-phaseburn-cmmenu
+theme-phaseburn-ingress
 ======================
 
-Cid logo menu button theme for CM 10.x
+Ingress logo menu button theme for CM 10.x
