@@ -1,0 +1,5 @@
+This is the CM Menu theme for the T-Mobile Theme Engine. It replaces the 
+"Home" softmenu button image with Cid's head. To compile it, make sure your
+key.properties and local.properties files are in order, and just simply
+execute "ant release" after you've added/removed the images and written your
+XML appropriately.
